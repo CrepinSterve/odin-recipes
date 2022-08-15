@@ -1,2 +1,1 @@
-# odin-recipes
-First Odin Project. Basic Recipes Webpage
+By the end of building this basic recipes page, the basic concepts of HTML should be well within grasp
